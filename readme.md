@@ -1,6 +1,6 @@
 # Seed Repo for working with MicroPython on the esp32
 
-Full tutorial [available on my blog](https://vorpalhex.com).
+Full tutorial [available on my blog](https://vorpalhex.com/post/hello-esp32/).
 
 ## prerequisites
 
